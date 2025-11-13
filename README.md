@@ -5,8 +5,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on XDOOP
-- 🌱 I’m currently learning Java Spring
+- 🔭 I’m currently working on xDoop Team
+- 🌱 I’m currently learning Java Spring Boot
 - 📫 How to reach me: https://naminc.dev
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
