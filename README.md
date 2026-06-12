@@ -12,7 +12,7 @@
 
 ## About Me
 
-- Currently working on **xDoop Team**
+- Currently working on **StackDux Team**
 - Learning **Laravel, PHP, Node.js & System Design**
 - Interested in **Backend Architecture, API Development, Database Design**
 - Focused on writing clean, maintainable and scalable code
